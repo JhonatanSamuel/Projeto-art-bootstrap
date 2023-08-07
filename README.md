@@ -16,6 +16,6 @@
     <br>
 
 <p>Imagem do Projeto</p>
+    <img src="https://github.com/JhonatanSamuel/Projeto-art-bootstrap/blob/main/img/projetto.jpg?raw=true">
     
-    <img src="https://github.com/JhonatanSamuel/Projeto-art-bootstrap/blob/main/img/projetto.jpg?raw=true"/>
     
