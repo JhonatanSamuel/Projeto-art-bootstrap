@@ -15,6 +15,7 @@
     <br>
     <br>
 
-    <p>Imagem do Projeto</p>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<p>Imagem do Projeto</p>
+    
+    <img src="https://github.com/JhonatanSamuel/Projeto-art-bootstrap/blob/main/img/projetto.jpg?raw=true"/>
     
